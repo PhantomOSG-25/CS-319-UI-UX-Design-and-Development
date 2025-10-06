@@ -1,0 +1,1 @@
+CS-319: UI/UX Design and Development focuses on designing intuitive, user-centered interfaces and implementing responsive front-end solutions. Students learn to balance aesthetics with usability, applying design principles and development techniques to create engaging digital experiences.
